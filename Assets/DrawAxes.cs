@@ -22,6 +22,6 @@ public class DrawAxes : MonoBehaviour
         Vector3 end3 = transform.position + direction3 * 5.0f;
         Debug.DrawLine(start3, end3, Color.blue);
 
-        
+
     }
 }
